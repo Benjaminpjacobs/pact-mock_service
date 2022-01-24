@@ -7,4 +7,4 @@ if ENV['X_PACT_DEVELOPMENT']
   gem 'pact-support', path: '../pact-support'
 end
 
-gem 'pact-support', git: "https://github.com/Benjaminpjacobs/pact-support", ref: 'b688d0f87871a96bfdae3ba810bf5b40d4344d14'
+gem 'pact-support', git: "https://github.com/Benjaminpjacobs/pact-support", ref: 'cfa90871707c28d8ec46f323fbaf0c3e61a54066'
